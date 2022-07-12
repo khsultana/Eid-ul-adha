@@ -1,0 +1,136 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.Head {
+    height: 800px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.973), rgba(255, 255, 255, 0.13)), url(Cow1.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+    align-items: center;
+    float: left;
+    color: bisque;
+
+}
+
+.Main {
+
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 40px;
+}
+
+.Main p {
+    text-decoration: none;
+    font-size: 20px;
+    width: 60%;
+}
+
+.Main button {
+    padding: 15px;
+    color: white;
+    background-color: crimson;
+    border: none;
+    font-size: 20px;
+    border-radius: 4px;
+    margin-top: 40px;
+}
+
+.Header-one {
+    display: inline-flex;
+    margin: 30px;
+}
+
+.Start {
+    width: 100%;
+    padding: 30px;
+    margin-left: 80px;
+}
+
+.Start h1 {
+    font-size: 50px;
+}
+
+.Start p {
+    font-size: 20px;
+}
+
+.Start img {
+    width: 500px;
+    margin-right: 80px;
+    position: relative;
+
+}
+
+.Start button {
+    padding: 15px;
+    color: white;
+    background-color: crimson;
+    border: none;
+    font-size: 20px;
+    border-radius: 4px;
+    margin-top: 40px;
+}
+
+.Header-two {
+    display: inline-flex;
+    margin: 30px;
+}
+
+.Start-two {
+    width: 100%;
+    padding: 10px;
+    margin-right: 80px;
+}
+
+.Start-two h1 {
+    font-size: 50px;
+}
+
+.Start-two p {
+    font-size: 20px;
+}
+
+.Start-two img {
+    width: 500px;
+    margin-left: 80px;
+
+}
+
+.Start-two button {
+    padding: 15px;
+    color: white;
+    background-color: crimson;
+    border: none;
+    font-size: 20px;
+    border-radius: 4px;
+    margin-top: 40px;
+}
+
+.Middle {
+    align-items: center;
+    text-align: center;
+}
+
+.Middle h1 {
+    font-size: 50px;
+}
+
+.Middle p {
+    font-size: 20px;
+}
+
+
+.Box {
+    display: flex;
+
+}
+
+.box-item {
+    background-color: rgba(248, 212, 144, 0.562);
+    margin: 20px
+}
+
+.box-item img {
+    float: left;
+}
